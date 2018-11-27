@@ -8,7 +8,7 @@ Require for Build :
 - Cmake 3.9 
 - nasm 2.07 to higher
 
-## Download adn Install
+## Download and Install
 
 #### Maya 2018
 ```bash
