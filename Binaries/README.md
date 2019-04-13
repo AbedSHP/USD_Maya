@@ -4,7 +4,7 @@ Built USD from PixarAnimationStudios/USD
 
 # Binaries added to release section!
 
-## [https://github.com/AbedSHP/USD_Maya/releases](https://www.google.com)
+## [https://github.com/AbedSHP/USD_Maya/releases](https://github.com/AbedSHP/USD_Maya/releases)
 
 
 
